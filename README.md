@@ -9,8 +9,10 @@ connect this pin, so you can connect directly 5V, GND and Arduino's RX.
 
 # Building
 
+```
 mkdir build && cd build &&
 cmake .. && make
+```
 
 # Usage
 
@@ -22,6 +24,9 @@ For example:
 to stdout every 60 seconds, thus reducing flash memory wear-out.
 
 The output is preceded by a timestamp number (the customary seconds since epoch).
+
+Keep in mind that the program will NOT show repeated values. So don't be surprised
+if you only see one value and then it apparently stops.
 
 # Feedback welcome
 
