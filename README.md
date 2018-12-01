@@ -35,4 +35,6 @@ don't hesitate to contact me.
 
 # Links
 
-An equivalent driver is available for Arduino/ESP8266 here: https://github.com/rsalinas/ze08-ch2o-arduino
+ * Sensor website: https://www.winsen-sensor.com/products/formaldehyde-detection-module/ze08-ch2o.html
+
+ * An equivalent driver is available for Arduino/ESP8266 here: https://github.com/rsalinas/ze08-ch2o-arduino
